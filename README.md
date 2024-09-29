@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Parth, aka cynical-melomaniac/[@a-delicate-balance](https://github.com/a-delicate-balance/) online.
+I am Parth, aka [@cynical-melomaniac](https://gitlab.com/cynical-melomaniac)/[@a-delicate-balance](https://github.com/a-delicate-balance/) online.
 
 ### Education 📔
 I am doing my CS with specialization in Data Science from [Punjab Engineering College](https://pec.ac.in) in Chandigarh, India.
